@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Twilio "Primary handler fails" (Demo-Nummer, Region Irland, Methode GET): wenn die Telefon-KI-Funktion nicht antwortet.
+     Den Rückruf-Eintrag in der App legt die Make-Anrufannahme über "Call status changes" an. -->
+<Response><Say voice="Google.de-DE-Chirp3-HD-Aoede" language="de-DE">Entschuldigung, unsere Telefonassistentin ist gerade nicht erreichbar. Wir rufen Sie schnellstmöglich zurück. Auf Wiederhören.</Say><Hangup/></Response>
